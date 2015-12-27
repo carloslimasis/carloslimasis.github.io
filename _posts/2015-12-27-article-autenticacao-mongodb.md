@@ -8,6 +8,7 @@ A autenticação verifica a identidade de um utilizador já a autorização dete
 
 ## Descreva aqui o passo-a-passo como criar um usuário administrador e um usuário comum.
 Para criar um usuário Administrador basta rodar o comando abaixo:
+
 ```javascript
 db.createUser(
   {
@@ -17,7 +18,9 @@ db.createUser(
   }
 )
 ```
+
 Já para criar um usuário comum basta rodar o comando abaixo:
+
 ```javascript
 db.createUser(
     {
