@@ -3,6 +3,10 @@ title: Autenticação no MongoDB
 updated: 2015-12-27 10:43
 ---
 
+## Motivação
+
+Bom pessoal, este artigo foi feito em uma atividade do curso de BeMEAN que estou fazendo. Espero que curtem! Valeu!
+
 ## Qual a diferença entre Autenticação e Autorização?
 A autenticação verifica a identidade de um utilizador já a autorização determina o acesso do usuário verificada a recursos e operações.
 
@@ -36,7 +40,7 @@ db.createUser(
 )
 ```
 
-Como pode ser visto no código de criação de um usuário comum, este usuário tem permissão de leitura nas coleções 'reporting', 'products' e 'sales' e permissão de leitura e escrita na coleção 'accounts'.
+No código acima criamos um usuário comum. Este usuário tem permissão de leitura nas coleções 'reporting', 'products' e 'sales' e permissão de leitura e escrita na coleção 'accounts'.
 
 
 ## Explique cada papel listado em Cluster Administration Roles.
