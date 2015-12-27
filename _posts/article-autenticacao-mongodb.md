@@ -1,6 +1,6 @@
 ---
 title: Autenticação no MongoDB
-updated: 2015-12-26 23:36
+updated: 2015-12-27 10:43
 ---
 
 ## Qual a diferença entre Autenticação e Autorização?
