@@ -78,4 +78,4 @@ Este comportamento também acontece em **escopo de função**. Segue o exemplo a
 ```
 
 
-Bom pessoal, neste artigo falei sobre o comportamento do **Hoisting** presente no **Javascript** esperem que tenha ajudado vocês de alguma forma. Fiquem ligados nos próximos artigos. Valeu!
+Bom pessoal, neste artigo falei sobre o comportamento do **Hoisting** presente no **Javascript** espero que tenha ajudado vocês de alguma forma. Fiquem ligados nos próximos artigos. Valeu!
