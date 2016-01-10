@@ -4,5 +4,5 @@ layout: null
 
 sitemap: {{ site.baseurl | replace: 'https', 'http' | append: '/sitemap.xml' }}
 
-user-agent: EmailCollector
+user-agent: Googlebot
 disallow: /
