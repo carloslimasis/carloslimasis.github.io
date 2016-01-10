@@ -7,7 +7,7 @@ updated: 2016-01-10
 
 O termo **Hoisting** vem do verbo **hoist** que traduzido significa **içar**. Em **Javascript** as funções e as variáveis são **hoisted**, ou seja, isto significa a grosso modo que elas são **içadas ao topo**. 
 
-Explicando melhor, o **Hoisting** é um comportamento do **Javascript** responsável por mover declarações para o topo de um escopo.
+O **Hoisting** é um comportamento do **Javascript** responsável por mover declarações para o topo de um escopo.
 
 Para um melhor entendimento vamos mostrar alguns exemplos:
 
