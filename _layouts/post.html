@@ -30,8 +30,10 @@ comments: true
   <span id="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-      this.page.url = '{{ page.url | prepend: site.url }}';
-      this.page.title = '{{ page.title }}';
+      var disqus_title = '{{ page.title }}';
+      var disqus_url = '{{ page.url | prepend: site.url }}';
+      this.page.url = disqus_url;
+      this.page.title = disqus_title;
 
       (function() {
         var dsq = document.createElement('script');
