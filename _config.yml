@@ -53,8 +53,3 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-
- comments:
-   provider: disqus
- disqus: 
-   short_name: carloslimasisgithubio
