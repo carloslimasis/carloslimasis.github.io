@@ -31,7 +31,7 @@ comments: true
     <div id="disqus_thread"></div>
     <script type="text/javascript">
       var disqus_title = '{{ page.title }}';
-      var disqus_url = '{{ page.url | prepend: site.url }}';
+      var disqus_url = window.location.href;
       var disqus_identifier = '{{ page.id }}';
    
       (function() {
